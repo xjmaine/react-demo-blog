@@ -1,0 +1,22 @@
+{
+    "blogs": [
+        {
+            "title": "The Blog",
+            "body": "The entire blog body \n all from scratch.",
+            "author": "Freddie",
+            "id": 1
+        },
+        {
+            "title": "Another Blog",
+            "body": "The entire blog body \n all from scratch.",
+            "author": "Thor",
+            "id": 2
+        },
+        {
+            "title": "Third Blog",
+            "body": "The entire blog body \n all from scratch.",
+            "author": "Thor",
+            "id": 3
+        }
+    ]
+}
